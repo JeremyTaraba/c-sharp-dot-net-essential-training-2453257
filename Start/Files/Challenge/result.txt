@@ -1,0 +1,9 @@
+Total Files: 12
+Excel Count: 4
+Word Count: 5
+PPt Count: 3
+--------------
+Total Size: 2,674,311 bytes
+Excel Size: 74,262 bytes
+Word Size: 1,196,567 bytes
+PPt Size: 1,403,482 bytes
