@@ -53,6 +53,7 @@ public class CheckingAcct : BankAccount {
             return;
         }
         this.balance -= amount;
+        base.Deposit(amount);
     }
 }
 
